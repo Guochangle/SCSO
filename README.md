@@ -4,7 +4,7 @@ Sand Cat Swarm Optimization
 
 
 
-SCSO代码来源于个人主页
+SCSO代码来源于算法作者个人主页
 
 
 
